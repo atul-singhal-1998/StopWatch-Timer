@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background-color: #ffa600;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    /* align-items: center; */
+}
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+p{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+button{
+    margin: 0 20px;
+    padding: 20px 20px;
+    font-size: large;
+    border-radius: 10px;
+    background-color: #ff5e00;
+}
+
+
+
